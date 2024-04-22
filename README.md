@@ -7,7 +7,7 @@
  
  <p align="left">My name is Ratnesh Singh Rajput and I'm a Fullstack Developer.
   
-  I'm from India, living in Bhopal and currently pursuing Computer Science.
+  I'm from India, living in Bhopal and currently pursuing Computer Science Engg.
   
 
 </p>

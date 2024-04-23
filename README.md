@@ -28,7 +28,7 @@ website -->
 📫You can reach me at ratneshsinghrajput2002@gmail.com
 
 ⚡ Fun fact  - 
-A Real programmers favourite line is “It works on my machine!"
+A Real programmer's favourite line is “It works on my machine!"
 
 
 <br>
